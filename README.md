@@ -1,5 +1,5 @@
 # 3-coloring-graph-algorithm
-This is a OES Python IV algorithm
+This is a OES Python IV algorithm project
 
 A PyGame visualization of graph 3-coloring using backtracking.
 The animation shows color assignments and reversals on a random connected graph.
